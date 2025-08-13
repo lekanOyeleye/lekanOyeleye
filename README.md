@@ -2,7 +2,7 @@
 
 💡 Machine Learning Engineer | Data Scientist | Agentic AI Innovator
 
-I design, train, and deploy AI systems that solve real-world problems in computer vision, natural language processing, and data analytics. With 3+ years of experience, I’ve built solutions from YOLO-based object detection models to LangChain-powered AI agents — delivering insights, automation, and scalability.
+I design, train, and deploy AI systems that solve real-world problems in computer vision, natural language processing, and data analytics. With 3+ years of experience, I’ve built solutions from YOLO-based object detection models to LangChain-powered AI agents delivering insights, automation, and scalability.
 
 Currently exploring Agentic AI systems that combine LLMs with reasoning, planning, and tool use to create more autonomous, goal-driven applications.
 

@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Olalekan Oyeleye
 
-💡 **Machine Learning Engineer | Data Scientist** with 3+ years of experience building and deploying AI solutions in **computer vision, natural language processing, data analytics**, and now **Agentic AI systems**. Skilled in turning complex datasets into actionable insights, and deploying ML models as scalable APIs and web apps.
+💡 Machine Learning Engineer | Data Scientist | Agentic AI Innovator
+
+I design, train, and deploy AI systems that solve real-world problems in computer vision, natural language processing, and data analytics. With 3+ years of experience, I’ve built solutions from YOLO-based object detection models to LangChain-powered AI agents — delivering insights, automation, and scalability.
+
+Currently exploring Agentic AI systems that combine LLMs with reasoning, planning, and tool use to create more autonomous, goal-driven applications.
 
 ---
 
@@ -24,9 +28,6 @@
 
 - [**RAG System for Web Document Retrieval**](https://github.com/Consolelives/Retrieval-Augmented-Generation-RAG-System-for-Web-Document-Retrieval)  
   Retrieval-Augmented Generation pipeline integrating LangChain and GPT models for fast, accurate knowledge retrieval.
-
-- **[Coming Soon] Agentic AI Research Assistant**  
-  An autonomous multi-agent AI system capable of deep research, synthesis, and complex task execution.
 
 ---
 

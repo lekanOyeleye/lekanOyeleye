@@ -32,12 +32,12 @@ Currently exploring Agentic AI systems that combine LLMs with reasoning, plannin
 ---
 
 ## 🛠 Technical Skills
-**Languages:** Python, R, JavaScript, Bash, SQL  
-**ML & AI:** PyTorch, YOLOv8/v11/v12, SAM/SAM2, MobileSAM, PaddlePaddle, LLMs, NLP, Agentic AI  
-**Data:** Pandas, NumPy, Spark, Feature Engineering, Statistical Testing  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
-**Cloud:** AWS (EC2, VPC, S3), Git  
-**Other:** Web Scraping (BeautifulSoup, Scrapy), Automation (Python scripting)
+**Programming & Scripting:** Python, R, JavaScript, Bash, SQL  
+**Machine Learning & AI:** PyTorch, TensorFlow, YOLOv8/v11/v12, SAM/SAM2, MobileSAM, Hugging Face, Scikit-learn  
+**Natural Language Processing:** LLMs, NLP pipelines, SpaCy, NLTK  
+**Data Processing & Analysis:** Pandas, NumPy, Spark, Feature Engineering, Statistical Testing, Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+**Cloud & APIs:** AWS (EC2, VPC, S3, etc.), Git  
+**Web Scraping & Automation:** BeautifulSoup, Scrapy, Python Scripting
 
 ---
 

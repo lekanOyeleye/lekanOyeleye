@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olalekan Oyeleye
 
-💡 Machine Learning Engineer | Data Scientist | Agentic AI
+💡 Machine Learning Engineer | Data Scientist | Researcher | Agentic AI
 
 I design, train, and deploy AI systems that solve real-world problems in computer vision, natural language processing, and data analytics. With 3+ years of experience, I’ve built solutions from YOLO-based object detection models to LangChain-powered AI agents delivering insights, automation, and scalability.
 
